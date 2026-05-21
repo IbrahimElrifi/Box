@@ -3,6 +3,6 @@
   "description": "CloudStream extension for Telebox/Linkbox cloud storage service",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/yacinezero/TeleboxProvider/main/plugins.json"
+    "https://raw.githubusercontent.com/IbrahimElrifi/TeleboxProvider/main/plugins.json"
   ]
 }
